@@ -1,7 +1,4 @@
 Please visit the below link for the docker Image:
 
-<<<<<<< HEAD:1. DIABETES DETECTION STREAMLIT APP/Link for downloading Docker Image.txt
 https://hub.docker.com/r/mishrapartha/my_diabetes_detection_st
-=======
-https://hub.docker.com/r/mishrapartha/my_diabetes_detection_st
->>>>>>> 3713639b7ff89773df0f13a6f1b08a48a0292cd8:DIABETES DETECTION STREAMLIT APP/Link for downloading Docker Image.txt
+
